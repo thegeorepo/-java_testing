@@ -17,6 +17,7 @@ public class Javatest {
     public static void main(String[] args) {
         System.out.println("hello world");
         System.out.println("outputtest");
+        System.out.println("outputtest2");
     }
     
 }
