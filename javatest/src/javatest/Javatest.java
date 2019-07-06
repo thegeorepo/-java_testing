@@ -18,6 +18,7 @@ public class Javatest {
         System.out.println("hello world");
         System.out.println("outputtest");
         System.out.println("outputtest2");
+        System.out.println("outputtest2");
     }
     
 }
